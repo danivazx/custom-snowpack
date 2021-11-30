@@ -1,3 +1,8 @@
+TOOD @danivazx
+I manually added the folder `lib` to the repo, as it was in .gitignore in the original build, there was probablly a good reason for `lib` to not be part of the package ... but at least it works like this 🤷
+
+I generated this package by cloning the original snowpack repo, editing the source code and running `yarn build` then created a repo out of the generated build
+
 [![CI](https://github.com/snowpackjs/snowpack/workflows/CI/badge.svg?event=push)](https://github.com/snowpackjs/snowpack/actions)
 
 ### What is Snowpack?
