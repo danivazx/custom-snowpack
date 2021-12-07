@@ -31,8 +31,8 @@
   "types": "./lib/cjs/index.d.ts",
   "main": "./lib/cjs/index.js",
   "bin": {
-    "sp": "./index.bin.js",
-    "snowpack": "./index.bin.js"
+    "sp2": "./index.bin.js",
+    "snowpack2": "./index.bin.js"
   },
   "files": [
     "assets",
