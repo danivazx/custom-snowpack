@@ -3,7 +3,7 @@ I manually added the folder `lib` to the repo, as it was in .gitignore in the or
 
 I generated this package by cloning the original snowpack repo, editing the source code and running `yarn build` then created a repo out of the generated build
 
-[![CI](https://github.com/snowpackjs/snowpack/workflows/CI/badge.svg?event=push)](https://github.com/snowpackjs/snowpack/actions)
+I also prevented the files under the `pages` folder from being read from cache, as this was colliding the nudl framework
 
 ### What is Snowpack?
 
